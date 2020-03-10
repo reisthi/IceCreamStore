@@ -1,0 +1,14 @@
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\bin\Debug\IceCreamStore.Data.dll
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\bin\Debug\IceCreamStore.Data.pdb
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\obj\Debug\IceCreamStore.Data.csprojAssemblyReference.cache
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\obj\Debug\IceCreamStore.Data.dll
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\obj\Debug\IceCreamStore.Data.pdb
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\bin\Debug\IceCreamStore.Data.dll.config
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\obj\Debug\IceCreamStore.Data.csproj.CopyComplete
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\obj\Debug\IceCreamStore.Data.Migrations.InitialCreate.resources
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\obj\Debug\IceCreamStore.Data.csproj.GenerateResource.cache
+C:\Users\DosreisThiagoC\Documents\Projects\IceCreamStore\IceCreamStore.Data\obj\Debug\IceCreamStore.Data.Migrations.secondmigration.resources
